@@ -22,17 +22,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Menu.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Menu.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/bythecake/Menu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+            <state relative-caret-position="391">
+              <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AboutUs.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AboutUs.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bythecake/AboutUs.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
@@ -45,8 +45,28 @@
       <file leaf-file-name="Home.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bythecake/Home.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="56" column="0" selection-start-line="8" selection-start-column="7" selection-end-line="56" selection-end-column="0" />
+            <state relative-caret-position="-255">
+              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="74" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddCake.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bythecake/AddCake.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BrowseCakes.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bythecake/BrowseCakes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -82,9 +102,11 @@
         <option value="$PROJECT_DIR$/src/cgiExample/Main.java" />
         <option value="$PROJECT_DIR$/src/cgiExample/Menu.java" />
         <option value="$PROJECT_DIR$/src/bythecake/HtmlElements.java" />
-        <option value="$PROJECT_DIR$/src/bythecake/Home.java" />
-        <option value="$PROJECT_DIR$/src/bythecake/Menu.java" />
         <option value="$PROJECT_DIR$/src/bythecake/AboutUs.java" />
+        <option value="$PROJECT_DIR$/src/bythecake/Home.java" />
+        <option value="$PROJECT_DIR$/src/bythecake/AddCake.java" />
+        <option value="$PROJECT_DIR$/src/bythecake/BrowseCakes.java" />
+        <option value="$PROJECT_DIR$/src/bythecake/Menu.java" />
       </list>
     </option>
   </component>
@@ -629,15 +651,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516648975869</updated>
-      <workItem from="1516648982854" duration="12928000" />
+      <workItem from="1516648982854" duration="15410000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12928000" />
+    <option name="totallyTimeSpent" value="15410000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -695,26 +717,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bythecake/Menu.java">
+    <entry file="file://$PROJECT_DIR$/src/bythecake/AboutUs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+        <state relative-caret-position="238">
+          <caret line="33" column="87" selection-start-line="33" selection-start-column="87" selection-end-line="33" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bythecake/AddCake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bythecake/BrowseCakes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/bythecake/Home.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="56" column="0" selection-start-line="8" selection-start-column="7" selection-end-line="56" selection-end-column="0" />
+        <state relative-caret-position="-255">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="74" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bythecake/AboutUs.java">
+    <entry file="file://$PROJECT_DIR$/src/bythecake/Menu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="33" column="87" selection-start-line="33" selection-start-column="87" selection-end-line="33" selection-end-column="87" />
+        <state relative-caret-position="391">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding />
         </state>
       </provider>

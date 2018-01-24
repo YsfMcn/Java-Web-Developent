@@ -29,9 +29,9 @@ public class Menu {
                         + "</li>"
                         + "</ol>"
                         + "</li>"
-                        + "<li>Add cake</li>"
-                        + "<li>Browse cakes</li>"
-                        + "<li>About us</li>"
+                        + "<li><a href=\"/cgi-bin/add_cakes.cgi\">Add cake</a></li>"
+                        + "<li><a href=\"/cgi-bin/browse_cakes.cgi\">Browse cakes</a></li>"
+                        + "<li><a href=\"/cgi-bin/aboutus.cgi\">About Us</a></li>"
                         + "</ul>";
         output +=
                 HtmlElements.FOOTER_ELEMENT
